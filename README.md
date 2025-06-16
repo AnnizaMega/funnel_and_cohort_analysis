@@ -68,31 +68,31 @@ This lets us observe trends in retention and revenue by cohort.
 
 ##  Key Findings and Insights (Funnel)
 
-✅ The view-to-cart conversion drops from 100% to ≅ 10%.  
-✅ The cart-to-purchase conversion is much higher (≅ 60%) — indicating strong buying signals once a product reaches the cart.  
-✅ Overall view-to-purchase drops to ≅ 5%.  
-✅ There’s a significant opportunity to increase conversions by optimizing the view-to-cart process (such as adding promotions, simplifying UI, or improving product visibility).
+ The view-to-cart conversion drops from 100% to ≅ 10%.  
+ The cart-to-purchase conversion is much higher (≅ 60%) — indicating strong buying signals once a product reaches the cart.  
+ Overall view-to-purchase drops to ≅ 5%.  
+ There’s a significant opportunity to increase conversions by optimizing the view-to-cart process (such as adding promotions, simplifying UI, or improving product visibility).
 
 ---
 
 ##  Key Findings and Insights (Cohort)
 
-✅ **Corporate accounts** contribute a large portion of transactions and revenue.  
-✅ There are **clear seasonal trends**, with transactions peaking in certain months (such as February), likely due to annual budgets or promotions.  
-✅ Individual segments have potential for growth — promotions or pricing strategies could be tailored to increase their engagement.
+ **Corporate accounts** contribute a large portion of transactions and revenue.  
+ There are **clear seasonal trends**, with transactions peaking in certain months (such as February), likely due to annual budgets or promotions.  
+ Individual segments have potential for growth — promotions or pricing strategies could be tailored to increase their engagement.
 
 ---
 
 ##  Recommendations
 
 ➥ **Funnel:**  
-✅ Implement promotions or incentives to move more viewers into adding products to their carts.  
-✅ Improve UI/UX to reduce drop-offs during view-to-cart.
+ Implement promotions or incentives to move more viewers into adding products to their carts.  
+ Improve UI/UX to reduce drop-offs during view-to-cart.
 
 ➥ **Cohort:**  
-✅ Develop loyalty programs and specialized pricing plans for corporate clients.  
-✅ Expand promotions to individual segments to increase engagement and transactions.  
-✅ Align promotions with seasonal trends to maximize revenue during peak periods.
+ Develop loyalty programs and specialized pricing plans for corporate clients.  
+ Expand promotions to individual segments to increase engagement and transactions.  
+ Align promotions with seasonal trends to maximize revenue during peak periods.
 
 ---
 
